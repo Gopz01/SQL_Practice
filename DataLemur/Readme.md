@@ -1,4 +1,4 @@
-SQL DataLemur Problems
+SQL DataLemur Solutions
 
 <br>
-<h2>Author - Gopalakrishnan</h2>
+<h4>Author - Gopalakrishnan</h4>
